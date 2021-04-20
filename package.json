@@ -1,6 +1,6 @@
 {
   "name": "wave-framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "logic framework for reactive JavaScript applications.",
   "main": "index.js",
   "scripts": {
