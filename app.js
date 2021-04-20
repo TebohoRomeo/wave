@@ -1,5 +1,4 @@
-const Greeting = require("./wave");
+const Wave = require("./wave");
 
-const greet = new Greeting();
-
-greet.sayHello()
+const App = new Wave();
+App.startApp()

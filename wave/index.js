@@ -1,9 +1,10 @@
 'use strict';
 
-class Greeting {
-    sayHello() {
-        console.log('Hello World');
+class Wave {
+    startApp(starts) {
+        console.log('Starting App');
+        return starts
     }
 }
 
-module.exports = Greeting
+module.exports = Wave
