@@ -2,8 +2,8 @@
   "name": "wave-framework",
   "version": "1.0.2",
   "description": "logic framework for reactive JavaScript applications.",
-  "main": "dist/index.js",
-  "type": "dist/index.d.ts",
+  "main": "./dist/index.js",
+  "type": "./dist/index.d.ts",
   "files": [
     "/dist"
   ],
